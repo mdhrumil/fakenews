@@ -1,3 +1,4 @@
 dataset/
 dataset/Fake.csv
 dataset/True.csv
+model/saved_models/
